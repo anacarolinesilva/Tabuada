@@ -1,0 +1,1 @@
+* Tabuada em Javascript, usando WHILE
